@@ -9,3 +9,15 @@ Articles disponible sur [le blog de Synbioz](https://www.synbioz.com/blog):
 Article pour RubyMotion:
 
 - [An introduction to smartphone game development with motion-game](http://www.rubymotion.com/news/2015/12/06/developing-smartphone-games-with-motion-game.html)
+
+# Screencasts
+
+Vidéos pour Screencastmint:
+
+- [Comprendre les Gems Ruby](https://www.youtube.com/watch?v=mgorJKz-xNo)
+- [Bonne pratique ROR: Utiliser les helpers](https://www.youtube.com/watch?v=ntK3JMX8b9A&index=1&list=PLJyGuEFsDFB12nn_aLqFDsXITeqvyUuGZ)
+- [Bonne pratique Ruby: Les Conditions If/Else](https://www.youtube.com/watch?v=hB3Hg-fuY0E&list=PLJyGuEFsDFB12nn_aLqFDsXITeqvyUuGZ&index=2)
+
+Vidéos pour [Hackademy](https://hackademy.io/):
+
+- [Vidéos sur Camtasia 2](https://hackademy.io/c/apps)
